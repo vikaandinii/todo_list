@@ -1,3 +1,2 @@
 # todo_list_app
-
-A new Flutter project.
+Tugas 2 Pemrograman Mobile
